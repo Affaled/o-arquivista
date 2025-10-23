@@ -1,59 +1,25 @@
-# OArquivistaUi
+# O Arquivista (Em Construção 🚧)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
+Uma biblioteca pessoal e diário de leitura com estética Dark Academia, construído com Angular e .NET.
 
-## Development server
+![Dark Academia Moodboard](https://i.imgur.com/example.jpg) 
+## Sobre o Projeto
 
-To start a local development server, run:
+"O Arquivista" é um projeto full-stack pessoal criado para praticar e demonstrar competências em:
+* **Frontend:** Angular 17+ (com Vite) e SCSS.
+* **Backend:** C# (.NET Web API).
+* **Boas Práticas:** Documentação (README) e Git (Conventional Commits).
 
-```bash
-ng serve
-```
+## Tecnologias Utilizadas
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+* [Angular](https://angular.io/)
+* [Vite](https://vitejs.dev/)
+* [SCSS](https://sass-lang.com/)
+* [C# / .NET](https://dotnet.microsoft.com/)
 
-## Code scaffolding
+## Como Executar (Frontend)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1.  Clone o repositório: `git clone [URL_DO_TEU_REPO]`
+2.  Navegue até à pasta do frontend: `cd o-arquivista-ui`
+3.  Instale as dependências: `npm install`
+4.  Execute o servidor de desenvolvimento: `npm run dev`
